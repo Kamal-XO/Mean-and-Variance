@@ -1,7 +1,7 @@
 ```
 Date :
-Exp no :                                                 Developed by : Kamalesh SV
-                                                         Register number : 212222240041
+Exp no :                                             Developed by : Kamalesh SV
+                                                     Register number : 212222240041
 ```                                                    
 #  Mean and variance of a discrete  distribution
 
